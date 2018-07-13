@@ -1,0 +1,10 @@
+// BPM as in Beats per Unit
+// Autor: Pablo Aldunate
+
+numi.addUnit({
+   "id": "BPM",
+   "phrases": "BPM, Bpm, bpm, beat per minute, beats por minuto",
+   "baseUnitId": "second",
+   "format" : "BPM",
+   "ratio" : 1/60,
+});
